@@ -1,4 +1,4 @@
-# An Approach for the Detection of Code Clones in Software Testing
+# Syntactic-Code-Clone-Detection: An Approach for the Detection of Code Clones in Software Testing
 
 MS Thesis code, Software Engineering
 **Author:** Sakha (CIIT/SP21-RSE-024/ISB)
